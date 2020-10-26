@@ -10,9 +10,9 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme                  : "minimal-mistakes-jekyll"
+#remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -25,7 +25,7 @@ url                      : "https://seokmin2016390.github.io/"
 baseurl                  : 
 repository               : "seokmin2016390/seokmin@donga.co.kr"
 teaser                   : "/assets/images/500x300.png"
-logo                     : "/assets/images/88x88.png"
+logo                     : ""
 masthead_title           :  "기록하는 Blog"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "이석민"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile-thumb.jpg"
   bio              : "공부하고 기록할 블로그"
   location         : "Republic of Korea"
   email            : "lsmm1100@gmail.com"
