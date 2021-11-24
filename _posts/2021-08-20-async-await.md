@@ -6,6 +6,8 @@ categories:
 author: Leeseokmin
 ---
 
+![자바스크립트](/assets/images/portfolio/js-logo.png){: .align-center}
+
 먼저 자바스크립트는 싱글스레드이기 때문에 한 번에 하나의 작업만 수행할 수 있습니다.
 이것을 해결하기 위해 비동기 처리가 생겼습니다.
 
